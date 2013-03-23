@@ -18,13 +18,13 @@
         <item>wallpaper_6</item>
         <item>wallpaper_7</item>
         <item>wallpaper_8</item>
-	<item>Pac-man_0</item>
-	<item>Pac-man_1</item>
-	<item>Pac-man_2</item>
-	<item>Pac-man_3</item>
-	<item>Pac-man_4</item>
-	<item>Pac-man_5</item>
-	<item>Pac-man_6</item>
+	<item>Pacman_0</item>
+	<item>Pacman_1</item>
+	<item>Pacman_2</item>
+	<item>Pacman_3</item>
+	<item>Pacman_4</item>
+	<item>Pacman_5</item>
+	<item>Pacman_6</item>
     </string-array>
 
     <string-array name="info" translatable="false">
